@@ -10,6 +10,7 @@ setup(
     author_email = "ilja.livenson@gmail.com",
     packages = ['pylicense'],
     license = 'BSD',
+    url='https://github.com/livenson/pylicense',
     entry_points = {'console_scripts': ['pylicense = pylicense.pylicense:run']
                    },
     install_requires = [
