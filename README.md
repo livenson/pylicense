@@ -3,7 +3,8 @@ pylicense
 
 Simple library/executable for extracting license information from the python eggs.
 
-:license: BSD
+License: BSD
+
 :copyright: 2013 by Ilja Livenson
 
 Example of usage
@@ -11,7 +12,6 @@ Example of usage
 
 Assyming pylicense is installed as an egg with pylicense script sitting in the PATH:
 
-   .. code-block:: shell
     $ pylicense eggs/ 
     BeautifulSoup 3.2.0, BSD
     coverage 3.5.2, BSD
